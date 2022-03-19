@@ -1,4 +1,10 @@
 file one
+<<<<<<< HEAD
 file two
 file  three 
 file four
+=======
+file twow
+file threee
+file fourr
+>>>>>>> bug1
